@@ -12,7 +12,7 @@
   <!--- TITLE AND SPOTIFY START --->
 
 <div>
-  <h1 align="left">🇨🇦 Dryd3n  <a href="https://open.spotify.com/user/drydenbryson"> <img align="right" src="https://spotify-recently-played-readme.vercel.app     /api?user=drydenbryson&count=1"></img></a>
+  <h1 align="left">🇨🇦 Dryd3n  <a href="https://open.spotify.com/user/drydenbryson"> <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=drydenbryson&count=1"></img></a>
   </h1> 
 </div>
 
@@ -25,10 +25,10 @@
 <!--- SOCIAL MEDIA BUTTONS START --->
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dryden-b-33032316a/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator          /master/src/assets/icons/social/linkedin/default.svg" width="26" height="20" alt="Dryden Bryson on Linkedin"  /></a>
-  <a href="https://twitter.com/Dryd3nB" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets            /icons/social/twitter/default.svg" width="26" height="20" alt="Dryd3n on Twitter"  /></a>
-  <a href="https://www.youtube.com/channel/UCs9hopZ06td1SaypLeuZ1LA" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-          generator/master/src/assets/icons/social/youtube/default.svg" width="26" height="20" alt="Dryden on Youtube"  /></a>
-  <a href="https://steamcommunity.com/id/dryd3nb/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg            /512px-Steam_icon_logo.svg.png?20220611141426" width="26" height="20" alt="Dryden.exe on Steam"  /></a>
+  <a href="https://www.linkedin.com/in/dryden-b-33032316a/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="20" alt="Dryden Bryson on Linkedin"  /></a>
+  <a href="https://twitter.com/Dryd3nB" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="26" height="20" alt="Dryd3n on Twitter"  /></a>
+  <a href="https://www.youtube.com/channel/UCs9hopZ06td1SaypLeuZ1LA" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="26" height="20" alt="Dryden on Youtube"  /></a>
+  <a href="https://steamcommunity.com/id/dryd3nb/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png?20220611141426" width="26" height="20" alt="Dryden.exe on Steam"  /></a>
 </div>
 
 <!--- SOCIAL MEDIA BUTTONS START --->
