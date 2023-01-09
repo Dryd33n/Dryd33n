@@ -40,9 +40,9 @@
 
 > Hi, my name is Dryden I am a student / cook / programer from Canada who loves learning new things and solving problems.
 
-- 🔭 I’m currently working on... [building JavaFX applications](https://github.com/Dryd33n/MyEddBeeSee-AdminPanel)
+- 🔭 I’m currently working on... [building and styling JavaFX applications](https://github.com/Dryd33n/library-manager-ict-12)
 
-- 🌱 I’m currently learning... **Java and JavaFX**o
+- 🌱 I’m currently learning... **Java and Computer Science Principles**
 
 - 📫 How to reach me... **Dryden#8841**
 
