@@ -41,7 +41,7 @@
 
 > Hi, my name is Dryden I am a student / cook / programer from Canada who loves learning new things and solving problems.
 
-- 🔭 I’m currently working on... [building and styling JavaFX applications](https://github.com/Dryd33n/library-manager-ict-12)
+- 🔭 I’m currently working on... [building and styling JavaFX applications](https://github.com/Dryd33n/sudoku)
 
 - 🌱 I’m currently learning... **Java and Computer Science Principles**
 
@@ -51,6 +51,12 @@
 
 <!--- BIO SECTION END --->
 
+
+</br>
+</br>
+
+  > ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ In modern computing we stand on the shoulders of giants so tall that those at the bottom are made invisbly by the clouds of abstraction
+  > ‎ ‎ ‎ ‎ -Unkown
 
 </br>
 </br>
