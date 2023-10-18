@@ -43,7 +43,7 @@
 
 - 🔭 I’m currently working on... [building and styling JavaFX applications](https://github.com/Dryd33n/sudoku)
 
-- 🌱 I’m currently learning... **Java and Computer Science Principles**
+- 🌱 I’m currently learning... **Introduction to Python and Computer Science**
 
 - 📫 How to reach me... **Dryden#8841**
 
