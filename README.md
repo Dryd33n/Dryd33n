@@ -112,7 +112,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png">
-  <img alt="JavaFX logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png" height="65">
+  <img alt="JavaFX logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png" height="65">    
 </picture>
 
 <!--- Scene Builder --->
@@ -142,35 +142,35 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png">
-  <img alt="Photoshop logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png" height="65">
+  <img alt="Photoshop logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png" height="65">    
 </picture>
 
 <!--- Illustrator --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png">
-  <img alt="Adobe Illustrator logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png" height="65">
+  <img alt="Adobe Illustrator logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png" height="65">    
 </picture>
 
 <!--- Premiere --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png">
-  <img alt="Premiere Pro logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png" height="65">
+  <img alt="Premiere Pro logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png" height="65">    
 </picture>
 
 <!--- Unity --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-light.png">
-  <img alt="Unity logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-dark.png" height="65">
+  <img alt="Unity logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-dark.png" height="65">    
 </picture>
 
 <!--- Blender --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png">
-  <img alt="Blender logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png" height="65">
+  <img alt="Blender logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png" height="65">    
 </picture>
 
 <!--- TECH STACK END --->
@@ -178,6 +178,16 @@
 <!--- PROJECTS END --->
 
 ## 🗂 Projects 
+
+### ♨️ Java Projects
+* [JavaFX Sudoku Application](https://github.com/Dryd33n/sudoku)
+* [JavaFX Mock Library Management Tool](https://github.com/Dryd33n/library-manager-ict-12)
+* [JavaFX Mock Student Management Tool](https://github.com/Dryd33n/MyEddBeeSee-AdminPanel)
+
+### 🌐 Web Projects
+* [Web App that Combines Spotify Playlists](https://github.com/Dryd33n/Spotimasher)
+* [Highschool Web Design Portfolio](http://ict11.rf.gd/?i=1)
+
 
 <!--- PROJECTS START --->
 
