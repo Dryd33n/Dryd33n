@@ -82,26 +82,96 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/python-light-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/python-light-dark.png">
-  <img alt="Java logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/python-light-dark.png" height="65">    
+  <img alt="Python logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/python-light-dark.png" height="65">    
 </picture>
 
 <!--- JAVASCRIPT --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/js-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/js-light.png">
-  <img alt="Java logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/js-light.png" height="55">    
+  <img alt="Javascript logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/js-light.png" height="55">    
 </picture>
 
 <!--- C --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/c-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/c-light.png">
-  <img alt="Java logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/java-light-dark.png" height="65">
+  <img alt="C logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/c-dark.png" height="65">  
+</picture>
+
+<!--- C# --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/cs-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/cs-light.png">
+  <img alt="C# logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/cs-dark.png" height="65">
 </picture>
 
 ### 💻 Front End
 
+<!--- JAVAFX --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png">
+  <img alt="JavaFX logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png" height="65">
+</picture>
+
+<!--- Scene Builder --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/scene-builder-light-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/scene-builder-light-dark.png">
+  <img alt="Scene Builder logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/scene-builder-light-dark.png" height="65">
+</picture>
+
+<!--- HTML --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html-light.png">
+  <img alt="HTML logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html-dark.png" height="65">
+</picture>
+
+<!--- CSS --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/css-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/css-light.png">
+  <img alt="CSS logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/css-dark.png" height="65">
+</picture>
+
 ### 🖼 Design
+
+<!--- Photoshop --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png">
+  <img alt="Photoshop logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png" height="65">
+</picture>
+
+<!--- Illustrator --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png">
+  <img alt="Adobe Illustrator logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png" height="65">
+</picture>
+
+<!--- Premiere --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png">
+  <img alt="Premiere Pro logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png" height="65">
+</picture>
+
+<!--- Unity --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-light.png">
+  <img alt="Unity logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-dark.png" height="65">
+</picture>
+
+<!--- Blender --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png">
+  <img alt="Blender logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png" height="65">
+</picture>
 
 <!--- TECH STACK END --->
 
