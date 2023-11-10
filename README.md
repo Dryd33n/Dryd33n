@@ -71,7 +71,7 @@
 
 ### 📜 Languages
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dryd33n&hide=c,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dryd33n&hide=c&theme=dracula )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- JAVA --->
 <picture>
