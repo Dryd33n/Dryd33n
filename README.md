@@ -71,6 +71,8 @@
 
 ### 📜 Languages
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dryd33n&hide=c,css)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--- JAVA --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/java-light-dark.png">
