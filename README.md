@@ -39,7 +39,6 @@
 </br>
 
 <!--- BIO SECTION START --->
-
 > Hi, my name is Dryden I am a student / cook / programer from Canada who loves learning new things and solving problems.
 
 - 🔭 I’m currently working on... [building and styling JavaFX applications](https://github.com/Dryd33n/sudoku)
@@ -49,19 +48,28 @@
 - 📫 How to reach me... **Dryden#8841**
 
 - 💬 Ask me about... **Modelling in Blender**
-
 <!--- BIO SECTION END --->
 
+</br>
+</br>
 
-</br>
-</br>
+<!--- QUOTE SECTION START --->
 
   > ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ In modern computing we stand on the shoulders of giants so tall that those at the bottom are made invisbly by the clouds of abstraction
   > ‎ ‎ ‎ ‎ -Unkown
 
+<!--- QUOTE SECTION END --->
+
 </br>
 </br>
 
+<!--- TOP LANGS SECTION START --->
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dryd33n&hide=css&theme=blue-green" width=100% height=350px>
+
+<!--- TOP LANGS SECTION END --->
+
+</br>
 
 <!--- TECH STACK START --->
 
@@ -70,8 +78,6 @@
 > *Some of the technologies I know and am learning how to use.*
 
 ### 📜 Languages
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dryd33n&hide=c&theme=dracula )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- JAVA --->
 <picture>
