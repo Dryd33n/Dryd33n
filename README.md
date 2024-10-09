@@ -41,7 +41,7 @@
 <!--- BIO SECTION START --->
 > Hi, my name is Dryden I am a student / cook / programer from Canada who loves learning new things and solving problems.
 
-- 🔭 I’m currently working on... [building and styling JavaFX applications](https://github.com/Dryd33n/sudoku)
+- 🔭 I’m currently working on... **Studying C for University courses**
 
 - 🌱 I’m currently studying... **Computer Science at the University of Victoria**
 
