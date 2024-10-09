@@ -192,6 +192,9 @@
 * [JavaFX Mock Library Management Tool](https://github.com/Dryd33n/library-manager-ict-12)
 * [JavaFX Mock Student Management Tool](https://github.com/Dryd33n/MyEddBeeSee-AdminPanel)
 
+### 🐍 Python Projects
+* [Spotify Data Analysis](https://github.com/Dryd33n/spotifyDataView)
+
 ### 🌐 Web Projects
 * [Web App that Combines Spotify Playlists](https://github.com/Dryd33n/Spotimasher)
 * [Highschool Web Design Portfolio](http://ict11.rf.gd/?i=1)
