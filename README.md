@@ -144,6 +144,13 @@
   <img alt="CSS logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/css-dark.png" height="65">
 </picture>
 
+<!--- PYQT --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/pyqt-light-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/pyqt-light-dark.png">
+  <img alt="PYQT logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/pyqt-light-dark.png" height="65">
+</picture>
+
 ### 🖼 Design
 
 <!--- Photoshop --->
