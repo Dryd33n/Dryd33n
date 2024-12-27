@@ -107,21 +107,6 @@
   <img alt="Postgres SQL logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/typescript.png" height="50">
 </picture>
 
-<!--- NEON DB --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/neon.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/neon.png">
-  <img alt="Drizzle ORM logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/neon.png" height="50">
-</picture>
-
-<!--- DRIZZLE ORM --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/drizzle.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/drizzle.png">
-  <img alt="Drizzle ORM logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/drizzle.png" height="50">
-</picture>
-
-
 <!--- C --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/c-dark.png">
