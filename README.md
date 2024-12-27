@@ -151,6 +151,8 @@
   <img alt="PYQT logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/pyqt-light-dark.png" height="65">
 </picture>
 
+### ⚙️ Backend
+
 ### 🖼 Design
 
 <!--- Photoshop --->
