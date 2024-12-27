@@ -137,6 +137,13 @@
   <img alt="CSS logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/css-dark.png" height="50">
 </picture>
 
+<!---TAILWIND CSS --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/tailwind.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/tailwind.png">
+  <img alt="CSS logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/tailwind.png" height="50">
+</picture>
+
 <!--- REACT --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/react.png">
