@@ -125,9 +125,9 @@
 
 <!--- HTML --->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html-light.png">
-  <img alt="HTML logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html-dark.png" height="50">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html.png">
+  <img alt="HTML logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html.png" height="50">
 </picture>
 
 <!--- CSS --->
