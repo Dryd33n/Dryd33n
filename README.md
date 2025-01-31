@@ -125,7 +125,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/r.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/r.png">
-  <img alt="C# logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/cs-dark.png" height="50">
+  <img alt="R logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/r.png" height="50">
+</picture>
+
+<!--- ASSEMBLY --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/assembly.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/assembly.png">
+  <img alt="Assembly Logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/assembly.png" height="50">
 </picture>
 
 ### 💻 Front End
