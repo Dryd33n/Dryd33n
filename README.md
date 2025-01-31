@@ -359,6 +359,7 @@ The entries in the table below contain links to github repos containing my schoo
       <ul>
         <li><a href="https://github.com/Dryd33n/uvic-seng-265">SENG 265</a></li>
         <li><a href="https://github.com/Dryd33n/uvic-csc-225">CSC 225</a></li>
+        <li><a href="https://github.com/Dryd33n/uvic-csc-230">CSC 230</a></li>
         <li><a href="https://github.com/Dryd33n/uvic-math-211">MATH 211</a></li>
       </ul>
     </td>
