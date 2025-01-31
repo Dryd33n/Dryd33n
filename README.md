@@ -79,61 +79,78 @@
 
 ### 📜 Languages
 ---
+
 <!--- JAVA --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/java-light-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/java-light-dark.png">
-  <img alt="Java logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/java-light-dark.png" height="75">
-</picture>
+<a href="https://www.java.com/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/java-light-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/java-light-dark.png">
+    <img alt="Java logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/java-light-dark.png" height="75">
+  </picture>
+</a>
 
 <!--- PYTHON --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/python-light-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/python-light-dark.png">
-  <img alt="Python logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/python-light-dark.png" height="50">    
-</picture>
+<a href="https://www.python.org/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/python-light-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/python-light-dark.png">
+    <img alt="Python logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/python-light-dark.png" height="50">    
+  </picture>
+</a>
 
 <!--- JAVASCRIPT --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/js-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/js-light.png">
-  <img alt="Javascript logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/js-light.png" height="55">    
-</picture>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/js-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/js-light.png">
+    <img alt="Javascript logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/js-light.png" height="55">    
+  </picture>
+</a>
 
 <!--- TYPESCRIPT --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/typescript.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/typescript.png">
-  <img alt="Postgres SQL logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/typescript.png" height="50">
-</picture>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/typescript.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/typescript.png">
+    <img alt="TypeScript logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/typescript.png" height="50">
+  </picture>
+</a>
 
 <!--- C --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/c-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/c-light.png">
-  <img alt="C logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/c-dark.png" height="50">  
-</picture>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/c-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/c-light.png">
+    <img alt="C logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/c-dark.png" height="50">  
+  </picture>
+</a>
 
 <!--- C# --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/cs-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/cs-light.png">
-  <img alt="C# logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/cs-dark.png" height="50">
-</picture>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/cs-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/cs-light.png">
+    <img alt="C# logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/cs-dark.png" height="50">
+  </picture>
+</a>
 
 <!--- R --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/r.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/r.png">
-  <img alt="R logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/r.png" height="50">
-</picture>
+<a href="https://www.r-project.org/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/r.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/r.png">
+    <img alt="R logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/r.png" height="50">
+  </picture>
+</a>
 
 <!--- ASSEMBLY --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/assembly.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/assembly.png">
-  <img alt="Assembly Logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/assembly.png" height="50">
-</picture>
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/assembly.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/assembly.png">
+    <img alt="Assembly Logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/assembly.png" height="50">
+  </picture>
+</a>
 
 ### 💻 Front End
 
