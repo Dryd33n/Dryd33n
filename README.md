@@ -78,7 +78,7 @@
 > *Some of the technologies I know and am learning how to use.*
 
 ### 📜 Languages
-
+---
 <!--- JAVA --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/java-light-dark.png">
@@ -129,6 +129,8 @@
 </picture>
 
 ### 💻 Front End
+
+---
 
 <!--- HTML --->
 <picture>
@@ -187,6 +189,9 @@
 </picture>
 
 ### ⚙️ Backend
+
+---
+
 <!--- POSTGRESQL --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/postgres.png">
@@ -208,8 +213,9 @@
   <img alt="Drizzle ORM logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/drizzle.png" height="50">
 </picture>
 
-
 ### 🖼 Design
+
+---
 
 <!--- Photoshop --->
 <picture>
@@ -278,10 +284,35 @@
 <!--- UVIC SCHOOLWORK START --->
 
 ## <img src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/uvic.png" height="20"> Schoolwork 
+The entries in the table below contain links to github repos containing my school work from notable classes:
 
-| Year 1 | Year 2 | Year 3 | Year 4 |
-|----------|----------|----------|----------|
-| - [CSC 110](https://github.com/Dryd33n/uvic-csc-100) <br><br> - [CSC 115](https://github.com/Dryd33n/uvic-csc-115) <br><br> - [MATH 122](https://github.com/Dryd33n/uvic-math-122)   | - [SENG 265](https://github.com/Dryd33n/uvic-seng-265) <br><br> - [CSC 225](https://github.com/Dryd33n/uvic-csc-225) <br><br> - [MATH 211](https://github.com/Dryd33n/uvic-math-211)    | ...   | ...   |
+<table style="width:100%;">
+  <tr>
+    <th>Year 1 (2023-2024)</th>
+    <th>Year 2 (2024-2025)</th>
+    <th>Year 3 (2025-2026)</th>
+    <th>Year 4 (2026-2027)</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li><a href="https://github.com/Dryd33n/uvic-csc-100">CSC 110</a></li>
+        <li><a href="https://github.com/Dryd33n/uvic-csc-115">CSC 115</a></li>
+        <li><a href="https://github.com/Dryd33n/uvic-math-122">MATH 122</a></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://github.com/Dryd33n/uvic-seng-265">SENG 265</a></li>
+        <li><a href="https://github.com/Dryd33n/uvic-csc-225">CSC 225</a></li>
+        <li><a href="https://github.com/Dryd33n/uvic-math-211">MATH 211</a></li>
+      </ul>
+    </td>
+    <td>...</td>
+    <td>...</td>
+  </tr>
+</table>
+
 
 
 
