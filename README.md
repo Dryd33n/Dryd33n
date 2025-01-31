@@ -256,7 +256,7 @@
 
 <!--- TECH STACK END --->
 
-<!--- PROJECTS END --->
+<!--- PROJECTS START --->
 
 ## 🗂 Projects 
 
@@ -273,5 +273,17 @@
 * [Highschool Web Design Portfolio](http://ict11.rf.gd/?i=1)
 
 
-<!--- PROJECTS START --->
+<!--- PROJECTS END --->
+
+<!--- UVIC SCHOOLWORK START --->
+
+## <img src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/uvic.png" height="20"> Schoolwork 
+
+| Year 1 | Year 2 | Year 3 | Year 4 |
+|----------|----------|----------|----------|
+| - [CSC 110](https://github.com/Dryd33n/uvic-csc-100) <br><br> - [CSC 115](https://github.com/Dryd33n/uvic-csc-115) <br><br> - [MATH 122](https://github.com/Dryd33n/uvic-math-122)   | - [SENG 265](https://github.com/Dryd33n/uvic-seng-265) <br><br> - [CSC 225](https://github.com/Dryd33n/uvic-csc-225) <br><br> - [MATH 211](https://github.com/Dryd33n/uvic-math-211)    | ...   | ...   |
+
+
+
+<!--- UVIC SCHOOLWORK END --->
 
