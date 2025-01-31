@@ -153,136 +153,166 @@
 </a>
 
 ### 💻 Front End
-
 ---
 
 <!--- HTML --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html.png">
-  <img alt="HTML logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html.png" height="50">
-</picture>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html.png">
+    <img alt="HTML logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/html.png" height="50">
+  </picture>
+</a>
 
 <!--- CSS --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/css-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/css-light.png">
-  <img alt="CSS logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/css-dark.png" height="50">
-</picture>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/css-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/css-light.png">
+    <img alt="CSS logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/css-dark.png" height="50">
+  </picture>
+</a>
 
-<!---TAILWIND CSS --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/tailwind.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/tailwind.png">
-  <img alt="CSS logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/tailwind.png" height="50">
-</picture>
+<!--- TAILWIND CSS --->
+<a href="https://tailwindcss.com/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/tailwind.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/tailwind.png">
+    <img alt="Tailwind CSS logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/tailwind.png" height="50">
+  </picture>
+</a>
 
 <!--- REACT --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/react.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/react.png">
-  <img alt="React logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/react.png" height="50">
-</picture>
+<a href="https://reactjs.org/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/react.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/react.png">
+    <img alt="React logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/react.png" height="50">
+  </picture>
+</a>
 
 <!--- NEXT --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/next.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/next.png">
-  <img alt="Next logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/next.png" height="50">
-</picture>
+<a href="https://nextjs.org/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/next.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/next.png">
+    <img alt="Next.js logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/next.png" height="50">
+  </picture>
+</a>
 
 <!--- JAVAFX --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png">
-  <img alt="JavaFX logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png" height="50">    
-</picture>
+<a href="https://openjfx.io/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png">
+    <img alt="JavaFX logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/javafx-light-dark.png" height="50">    
+  </picture>
+</a>
 
 <!--- Scene Builder --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/scene-builder-light-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/scene-builder-light-dark.png">
-  <img alt="Scene Builder logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/scene-builder-light-dark.png" height="50">
-</picture>
+<a href="https://gluonhq.com/products/scene-builder/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/scene-builder-light-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/scene-builder-light-dark.png">
+    <img alt="Scene Builder logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/scene-builder-light-dark.png" height="50">
+  </picture>
+</a>
 
 <!--- PYQT --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/pyqt-light-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/pyqt-light-dark.png">
-  <img alt="PYQT logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/pyqt-light-dark.png" height="50">
-</picture>
+<a href="https://riverbankcomputing.com/software/pyqt/intro" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/pyqt-light-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/pyqt-light-dark.png">
+    <img alt="PyQt logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/pyqt-light-dark.png" height="50">
+  </picture>
+</a>
 
 ### ⚙️ Backend
-
 ---
 
 <!--- POSTGRESQL --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/postgres.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/postgres.png">
-  <img alt="Postgres SQL logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/postgres.png" height="50">
-</picture>
+<a href="https://www.postgresql.org/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/postgres.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/postgres.png">
+    <img alt="Postgres SQL logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/postgres.png" height="50">
+  </picture>
+</a>
 
 <!--- NEON DB --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/neon.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/neon.png">
-  <img alt="Drizzle ORM logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/neon.png" height="50">
-</picture>
+<a href="https://neon.tech/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/neon.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/neon.png">
+    <img alt="Neon DB logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/neon.png" height="50">
+  </picture>
+</a>
 
 <!--- DRIZZLE ORM --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/drizzle.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/drizzle.png">
-  <img alt="Drizzle ORM logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/drizzle.png" height="50">
-</picture>
+<a href="https://orm.drizzle.team/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/drizzle.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/drizzle.png">
+    <img alt="Drizzle ORM logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/drizzle.png" height="50">
+  </picture>
+</a>
 
 ### 🖼 Design
-
 ---
 
 <!--- Photoshop --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png">
-  <img alt="Photoshop logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png" height="50">    
-</picture>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png">
+    <img alt="Photoshop logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/photoshop-light-dark.png" height="50">     
+  </picture>
+</a>
 
 <!--- Illustrator --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png">
-  <img alt="Adobe Illustrator logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png" height="50">    
-</picture>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png">
+    <img alt="Adobe Illustrator logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/illustrator-light-dark.png" height="50">     
+  </picture>
+</a>
 
 <!--- Premiere --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png">
-  <img alt="Premiere Pro logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png" height="50">    
-</picture>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png">
+    <img alt="Premiere Pro logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/premiere-light-dark.png" height="50">     
+  </picture>
+</a>
 
 <!--- Unity --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-light.png">
-  <img alt="Unity logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-dark.png" height="50">    
-</picture>
+<a href="https://unity.com/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-light.png">
+    <img alt="Unity logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/unity-dark.png" height="50">     
+  </picture>
+</a>
 
 <!--- Blender --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png">
-  <img alt="Blender logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png" height="50">    
-</picture>
-
+<a href="https://www.blender.org/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png">
+    <img alt="Blender logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png" height="50">     
+  </picture>
+</a>
 
 <!--- LATEX --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/latex-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/latex-light.png">
-  <img alt="LaTex logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/next.png" height="50">
-</picture>
+<a href="https://www.latex-project.org/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/latex-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/latex-light.png">
+    <img alt="LaTex logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/next.png" height="50">
+  </picture>
+</a>
 
 <!--- TECH STACK END --->
 
