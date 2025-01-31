@@ -239,6 +239,14 @@
   <img alt="Blender logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/blender-light-dark.png" height="50">    
 </picture>
 
+
+<!--- LATEX --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/latex-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dryd33n/Dryd33n/blob/main/logos/latex-light.png">
+  <img alt="LaTex logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/next.png" height="50">
+</picture>
+
 <!--- TECH STACK END --->
 
 <!--- PROJECTS END --->
