@@ -61,13 +61,7 @@
 <!--- QUOTE SECTION END --->
 
 </br>
-</br>
 
-<!--- TOP LANGS SECTION START --->
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dryd33n&hide=css&theme=blue-green" width=100% height=350px>
-
-<!--- TOP LANGS SECTION END --->
 
 </br>
 
@@ -151,6 +145,26 @@
     <img alt="Assembly Logo" src="https://github.com/Dryd33n/Dryd33n/blob/main/logos/assembly.png" height="50">
   </picture>
 </a>
+
+</br>
+
+
+<!--- TOP LANGS SECTION START --->
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryd33n&layout=compact&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryd33n&layout=compact&theme=dark"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
+</p>
+
+<!--- TOP LANGS SECTION END --->
 
 ### 💻 Front End
 ---
