@@ -56,7 +56,7 @@
 <!--- QUOTE SECTION START --->
 
   > ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ In modern computing we stand on the shoulders of giants so tall that those at the bottom are made invisbly by the clouds of abstraction
-  > ‎ ‎ ‎ ‎ -Unkown
+  > ‎ ‎ ‎ ‎ -Unknown
 
 <!--- QUOTE SECTION END --->
 
