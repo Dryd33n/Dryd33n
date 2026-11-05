@@ -45,7 +45,7 @@
 
 - 🌱 I’m currently studying... **Computer Science at the University of Victoria**
 
-- 📫 How to reach me... **Dryden#8841**
+- 📫 How to reach me... **drydenbryson@dryd3n.ca**
 
 - 💬 Ask me about... **Modelling in Blender**
 <!--- BIO SECTION END --->
